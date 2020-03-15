@@ -49,6 +49,10 @@
 <br><br>
 
 **RecycleView相关**<br>
+**[BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**
+>BRVAH：功能强大且灵活的RecyclerAdapter [http://www.recyclerview.org/](http://www.recyclerview.org/)
+![972352-bbacc52dd247f621.gif](https://upload-images.jianshu.io/upload_images/1940162-4276210e439ff953.gif?imageMogr2/auto-orient/strip)
+
 **[BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android)**
 >类似 iOS 带弹簧效果的左右滑动控件，可作为 AbsListView 和 RecyclerView 的 item（作为 AbsListView 的 item 时的点击事件参考代码家的 [https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) )
 ![image.png](https://upload-images.jianshu.io/upload_images/1940162-cdd43c659650349f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

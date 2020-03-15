@@ -1,4 +1,25 @@
-# [UI库相关](https://github.com/jxoday/collections/blob/master/UI%E5%BA%93%E7%9B%B8%E5%85%B3.md)
+#开发工具库
+**开源库大全**
+>**[android-open-project](https://github.com/Trinea/android-open-project)**：一个分类收集的Android开源项目，更强大的web版本
+
+**开发助手**
+>**[DoraemonKit](https://github.com/didi/DoraemonKit)**：简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有
+
+**开发工具**
+>**[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)**：Android开发人员应收集以下utils（更新）[https://blankj.com/2016/07/31/android-utils-code/](https://blankj.com/2016/07/31/android-utils-code/)
+
+**网络请求框架**
+>**[okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)**：OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+<br><br>**[RxDownload](https://github.com/ssseasonnn/RxDownload)**：用RxJava和Kotlin编写的多线程下载工具
+<br><br>**[RxHttpUtils](https://github.com/lygttpod/RxHttpUtils)**：Rxjava+Retrofit封装，便捷使用
+
+**组件化**
+>**[CC](https://github.com/luckybilly/CC)**：业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。Componentize your android project gradually. [https://luckybilly.github.io/CC-website/](https://luckybilly.github.io/CC-website/)
+
+<br><br>
+***
+
+# UI库相关
 >**[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)**
 精选的Android UI / UX库的精选列表 [[https://twitter.com/wasabeef_jp]](https://twitter.com/wasabeef_jp])
 
@@ -80,5 +101,58 @@
 **收藏、点赞、喜欢**
 >**[LikeView](https://github.com/zFxiang/LikeView)**：仿即刻点赞桃心控件
 
+<br><br>
+***
 
+#图片查看、编辑、选择相关
+**SVG**
+>**[androidsvg](https://github.com/BigBadaboom/androidsvg)**：SVG rendering library for Android [http://bigbadaboom.github.io/androidsvg/](http://bigbadaboom.github.io/androidsvg/)
+AndroidSVG是Android的SVG解析器和渲染器。它几乎完全支持SVG 1.1和SVG 1.2 Tiny规范的静态视觉元素（滤镜除外）。
 
+**图片查看**
+>**[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)**：Android库（AAR）。高度可配置，易于扩展的深度缩放视图，可显示巨大图像而不会丢失细节。非常适合照相馆，地图，建筑平面图等
+<br><br>**[Diooto](https://github.com/MikaelZero/Diooto)**：微博,微信图库效果,微信视频拖放效果,适配状态栏 、屏幕旋转 、全屏 、长图、GIF、视频
+<br><br>**[BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)**：支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。现已支持androidx。 [https://www.jianshu.com/p/b15e65791c3f](https://www.jianshu.com/p/b15e65791c3f)
+<br><br>**[android-gif-drawable](https://github.com/koral--/android-gif-drawable)**：用于在Android上显示动画GIF的视图和Drawable
+
+**图片编辑**
+>**[Imaging](https://github.com/minetsh/Imaging)**：Android Image Edit Lib. Android 图片编辑库，微信图片编辑库
+<br><br>**[AndroidWM](https://github.com/huangyz0918/AndroidWM)**支持隐写术的android图像水印库。 [http://huangyz.name/AndroidWM/](http://huangyz.name/AndroidWM/)
+<br><br>**[ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android)**：AndroidImageEdit 安卓设备上图形编辑开源控件，支持磨皮美白 自定义贴图 图片滤镜 图片旋转 图片剪裁 文字贴图 撤销 回退 等操作
+<br><br>**[Doodle](https://github.com/1993hzw/Doodle)**：图片涂鸦，具有撤消，缩放，移动，添加文字，贴图等功能。还是一个功能强大，可自定义和可扩展的涂鸦框架、多功能画板。
+
+**Gilde相关**
+>**[glide-transformations](https://github.com/wasabeef/glide-transformations)**：一个Android转换库，为Glide提供了各种图像转换。
+
+**图片相册预览选择器**
+>**[RxImagePicker](https://github.com/BeaHugs/RxImagePicker)**：支持AndroidX，支持图片的单选、多选、图片预览、图片文件夹切换、在选择图片时调用相机拍照
+<br><br>**[ImagePicker](https://github.com/CysionLiu/ImagePicker)**：仿微信的图片选择，支持AndroidX，适配Android Q
+
+<br><br>
+***
+# 音频、视频、录音、拍摄编辑相关
+
+**音频相关**
+
+>**[wlmusic](https://github.com/wanliyang1990/wlmusic)**：基于FFmpeg + OpenSL ES的音频播放SDK。可循环不间断播放短音频；播放raw和assets音频文件；可独立设置音量大小；可实时现在音量分贝大小（用于绘制波形图）；可改变音频播放速度和音调（变速不变调、变调不变速、变速又变调）；可设置播放声道（左声道、右声道和立体声）；可边播边录留住美好音乐；可裁剪指定时间段的音频，制作自己的彩铃；还可以从中获取音频原始PCM数据(可指定采样率)，方便二次开发等。
+<br><br>**[LQRAudioRecord](https://github.com/GitLqr/LQRAudioRecord)**：集成录音与播音功能，使用简单方便
+
+**视频相关**
+>**[VideoMergeDemo](https://github.com/T-chuangxin/VideoMergeDemo)**：android ffmpeg视频编辑。剪切并合并。
+<br><br>**[ijkplayer](https://github.com/bilibili/ijkplayer)**：基于FFmpeg n3.4的Android / iOS视频播放器，带有MediaCodec，VideoToolbox支持。
+<br><br>**[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)**：视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg
+<br><br>**[rdVideoEditSDK-for-Android](https://github.com/rdsdk/rdVideoEditSDK-for-Android)**：Android视频编辑SDK;Android视频编辑SDK:视频剪切，视频加入，视频水印，视频字幕，视频旋转
+
+**录音相关**
+>**[AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter)**：轻松在Android应用程序内部转换音频文件。支持的格式：AAC，MP3，M4A，WMA，WAV和FLAC。
+
+**拍摄图片编辑**
+
+<br><br>
+***
+
+###FFmpeg开源库相关
+>**[android-ffmpeg](https://github.com/guardianproject/android-ffmpeg)**：一个用于为Android [https://dev.guardianproject.info/proj](https://dev.guardianproject.info/projects/android-ffmpeg-java)构建自定义ffmpeg二进制文件的系统…
+<br><br>**[RxFFmpeg](https://github.com/microshow/RxFFmpeg)**：RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能（视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片等主流特色功能
+<br><br>**[ijkplayer](https://github.com/bilibili/ijkplayer)**：基于FFmpeg n3.4的Android / iOS视频播放器，带有MediaCodec，VideoToolbox支持。
+<br><br>**[EpMedia](https://github.com/yangjie10930/EpMedia)**：Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，变速，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。

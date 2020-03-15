@@ -1,4 +1,4 @@
-#开发工具库
+# [开发工具库](https://github.com/jxoday/collections/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%BA%93.md)
 **开源库大全**
 >**[android-open-project](https://github.com/Trinea/android-open-project)**：一个分类收集的Android开源项目，更强大的web版本
 
@@ -19,7 +19,7 @@
 <br><br>
 ***
 
-# UI库相关
+# [UI库相关](https://github.com/jxoday/collections/blob/master/UI%E5%BA%93%E7%9B%B8%E5%85%B3.md)
 >**[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)**
 精选的Android UI / UX库的精选列表 [[https://twitter.com/wasabeef_jp]](https://twitter.com/wasabeef_jp])
 
@@ -104,7 +104,7 @@
 <br><br>
 ***
 
-#图片查看、编辑、选择相关
+# [图片查看、编辑、选择相关](https://github.com/jxoday/collections/blob/master/%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E3%80%81%E7%BC%96%E8%BE%91%E3%80%81%E9%80%89%E6%8B%A9%E7%9B%B8%E5%85%B3.md)
 **SVG**
 >**[androidsvg](https://github.com/BigBadaboom/androidsvg)**：SVG rendering library for Android [http://bigbadaboom.github.io/androidsvg/](http://bigbadaboom.github.io/androidsvg/)
 AndroidSVG是Android的SVG解析器和渲染器。它几乎完全支持SVG 1.1和SVG 1.2 Tiny规范的静态视觉元素（滤镜除外）。
@@ -130,7 +130,7 @@ AndroidSVG是Android的SVG解析器和渲染器。它几乎完全支持SVG 1.1�
 
 <br><br>
 ***
-# 音频、视频、录音、拍摄编辑相关
+# [音频、视频、录音、拍摄编辑相关](https://github.com/jxoday/collections/blob/master/%E5%9B%BE%E7%89%87%E6%9F%A5%E7%9C%8B%E3%80%81%E7%BC%96%E8%BE%91%E3%80%81%E9%80%89%E6%8B%A9%E7%9B%B8%E5%85%B3.md)
 
 **音频相关**
 
@@ -151,7 +151,7 @@ AndroidSVG是Android的SVG解析器和渲染器。它几乎完全支持SVG 1.1�
 <br><br>
 ***
 
-###FFmpeg开源库相关
+# [FFmpeg开源库相关](https://github.com/jxoday/collections/blob/master/FFmpeg%E5%BC%80%E6%BA%90%E5%BA%93%E7%9B%B8%E5%85%B3.md)
 >**[android-ffmpeg](https://github.com/guardianproject/android-ffmpeg)**：一个用于为Android [https://dev.guardianproject.info/proj](https://dev.guardianproject.info/projects/android-ffmpeg-java)构建自定义ffmpeg二进制文件的系统…
 <br><br>**[RxFFmpeg](https://github.com/microshow/RxFFmpeg)**：RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能（视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片等主流特色功能
 <br><br>**[ijkplayer](https://github.com/bilibili/ijkplayer)**：基于FFmpeg n3.4的Android / iOS视频播放器，带有MediaCodec，VideoToolbox支持。

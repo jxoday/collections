@@ -28,6 +28,7 @@
 
 **ViewPape**
 >**[ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper)**：viewpager 工具类，能够帮你快速实现导航栏轮播图，app引导页，viewpager + fragment；内置多种tab指示器，让你告别 viewpager 的繁琐操作，专注逻辑功能
+<br><br>**[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**：引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
 <br><br>**[banner](https://github.com/youth5201314/banner)**：Android广告图片轮播控件，Banner 2.0 全新升级！！！
 <br><br>**[Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)**：简单方便的横幅，带有3D效果的循环查看器
 <br><br>**[dotsindicator](https://github.com/tommybuonomo/dotsindicator)**：查找viewPage的指示器

@@ -43,8 +43,9 @@
 >**[EasyFloat](https://github.com/princekin-f/EasyFloat)**：Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
 
 **RecycleView相关**
->**[BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**BRVAH：功能强大且灵活的RecyclerAdapter [http://www.recyclerview.org/](http://www.recyclerview.org/)
-<br><br>**[BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android)**：类似 iOS 带弹簧效果的左右滑动控件，可作为 AbsListView 和 RecyclerView 的 item（作为 AbsListView 的 item 时的点击事件参考代码家的 [https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) )
+>**[BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**BRVAH：功能强大且灵活的RecyclerAdapter [http://www.recyclerview.org/](http://www.recyclerview.org/)
+<br><br>**[BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)**：多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
+<br><br>**[BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android)**：类似 iOS 带弹簧效果的左右滑动控件，可作为 AbsListView 和 RecyclerView 的 item（作为 AbsListView 的 item 时的点击事件参考代码家的 [https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) )
 <br><br>**[sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)**：Android的RecyclerView的粘滞头装饰器
 <br><br>**[IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView)**：[已弃用] RecyclerView实现的联系人列表
 <br><br>**[RecyclerViewCardGallery](https://github.com/zjw-swun/RecyclerViewCardGallery)**：RecyclerView实现循环banner，替代ViewPager方案。能够快速滑动并最终定位到居中位置(相比于原库支持了循环滑动,原库地址：[RecyclerViewCardGallery](https://github.com/huazhiyuan2008/RecyclerViewCardGallery))

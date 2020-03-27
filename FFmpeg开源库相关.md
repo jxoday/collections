@@ -1,4 +1,4 @@
-**[在使用ffmpeg的视频中的前30秒添加徽标](https://qastack.cn/superuser/683643/how-to-add-my-logo-for-the-first-30-seconds-in-a-video-with-ffmpeg)
+**[在使用ffmpeg的视频中的前30秒添加徽标](https://qastack.cn/superuser/683643/how-to-add-my-logo-for-the-first-30-seconds-in-a-video-with-ffmpeg)**
 
 **[android-ffmpeg](https://github.com/guardianproject/android-ffmpeg)**
 >一个用于为Android [https://dev.guardianproject.info/proj](https://dev.guardianproject.info/projects/android-ffmpeg-java)构建自定义ffmpeg二进制文件的系统…

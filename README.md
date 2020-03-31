@@ -5,6 +5,7 @@
 <br><br>**[Android_open_project](https://github.com/linmomo/Android_open_project)**：Android开源项目，旨在搜集平常工作中遇到和可能需要用到的一些好的开源项目；系统控件、Material Design控件、Material Design控件库、自定义控件、自定义控相关链接、三方工具、Animations、源码系列、链接、后台
 <br><br>**[V-AndroidCollectSources](https://github.com/Vension/V-AndroidCollectSources)**：🔥💪 Github优秀开源项目整理，方便查阅
 <br><br>**[Android 常用开源库总结（持续更新）](https://juejin.im/post/5c80d817e51d4541ea7202a1)**：收集了一些比较常见的开源库，特此记录（已收录410+）。另外，本文将持续更新
+<br><br>**[自定义控件 - 收藏集）](https://zhuanlan.zhihu.com/p/27567346)**：自定义控件 - 收藏集 - 掘金
 
 **开发助手**
 >**[DoraemonKit](https://github.com/didi/DoraemonKit)**：简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有

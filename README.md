@@ -31,6 +31,9 @@
 **UI开发效率**
 >**[QMUI_Android](https://github.com/Tencent/QMUI_Android)**：提高 Android UI 开发效率的 UI 库 [http://qmuiteam.com/android](http://qmuiteam.com/android)
 
+**Layout**
+>**[CoordinatorLayoutExample](https://github.com/gdutxiaoxu/CoordinatorLayoutExample)**：自定义 Behavior 实现 FloatingActionButton 的隐藏与展示
+
 **ViewPape**
 >**[ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper)**：viewpager 工具类，能够帮你快速实现导航栏轮播图，app引导页，viewpager + fragment；内置多种tab指示器，让你告别 viewpager 的繁琐操作，专注逻辑功能
 <br><br>**[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**：引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果

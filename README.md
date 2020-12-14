@@ -7,6 +7,7 @@
 <br><br>**[Android 常用开源库总结（持续更新）](https://juejin.im/post/5c80d817e51d4541ea7202a1)**：收集了一些比较常见的开源库，特此记录（已收录410+）。另外，本文将持续更新
 <br><br>**[自定义控件 - 收藏集）](https://zhuanlan.zhihu.com/p/27567346)**：自定义控件 - 收藏集 - 掘金
 <br><br>**[25000字总结Android优秀的第三方框架、各种学习资料汇集 一 系统组件、Design组件、自定义组件等等](https://juejin.cn/post/6844904162216394759)**：25000字总结Android优秀的第三方框架、各种学习资料汇集 一 系统组件、Design组件、自定义组件等等
+<br><br>**[🔥💪 Github优秀开源项目整理](https://github.com/Vension/V-AndroidCollectSources)**：🔥💪 Github优秀开源项目整理，方便查阅，仅供参考，感谢开源！！！
 
 **开发助手**
 >**[DoraemonKit](https://github.com/didi/DoraemonKit)**：简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有

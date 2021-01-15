@@ -46,9 +46,10 @@
 <br><br>**[JiKeViewPager](https://github.com/xurui1995/JiKeViewPager)**：仿即刻App的一个控件
 
 **导航栏相关**
->**[FlowHelper](https://github.com/LillteZheng/FlowHelper)**：可以帮助您迅速构建Tab，比如热搜、搜索记录、与ViewPager搭配的工具类
+>**[MagicIndicator](https://github.com/hackware1993/MagicIndicator)**：强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等）
 <br><br>**[CusBottomHelper](https://github.com/LillteZheng/CusBottomHelper)**：快速搭建底部导航栏的工具类，支持多种效果
 <br><br>**[BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)**：该库可帮助用户轻松使用底部导航栏（谷歌的一种新模式），并允许进行大量自定义
+<br><br>**[FlowHelper](https://github.com/LillteZheng/FlowHelper)**：可以帮助您迅速构建Tab，比如热搜、搜索记录、与ViewPager搭配的工具类
 
 **浮窗**
 >**[EasyFloat](https://github.com/princekin-f/EasyFloat)**：Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）

@@ -105,6 +105,7 @@
 **交互和动画**
 >**[BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)**：Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
 <br><br>**[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)**：可爱的视图动画集合。
+<br><br>**[android-animations](https://github.com/gayanvoice/android-animations)**：关于执行补间动画，例如注意、反弹、淡入淡出、翻转、旋转、滑动和缩放视图
 
 **Dialog相关**
 >**[dialogplus](https://github.com/orhanobut/dialogplus)**：适用于Android的高级对话框解决方案

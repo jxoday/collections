@@ -67,6 +67,7 @@
 <br><br>**[CityPicker](https://github.com/zaaach/CityPicker)**：城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能
 <br><br>**[WaveSideBar](https://github.com/Solartisan/WaveSideBar)**：一个快速跳跃分组的侧边栏控件，示例中配合RecyclerView实现。
 <br><br>**[SortRecyclerView](https://github.com/xupeng92/SortRecyclerView)**：处理列表数据，并在RecyclerView（用RecyclerView对数据进行字母排序）上显示新的按字母排序的字母列表
+<br><br>**[SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)**：🍈 RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
 
 **下拉刷新、上拉加载**
 >**[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**：下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer

@@ -15,3 +15,4 @@
 - **禁止内联全限定类名**：严禁在代码正文/方法体中编写形如 `kotlin.text.StringsKt.xxx`、`cn.hutool.core.util.xxx` 等冗长的内联包路径。
 - **强制文件头部标准 import**：所有在类中用到的外部类、接口或静态方法，**必须在文件头部声明标准 `import`**（或 `import static`）。
 - **编写前主动检查与补齐依赖**：在新增类方法或引入外部工具前，必须预先检查并一次性补齐所需的全部 `import` 语句（如 `java.util.Calendar`、`Date`、`List`、`Map` 等），严防因漏导包产生编译错误。
+
